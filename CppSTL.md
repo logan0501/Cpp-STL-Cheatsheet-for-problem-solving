@@ -36,7 +36,6 @@
 - reverse()
 - size()
 - sort()
-- 
 ---
 ## **Stack**
 - empty()
